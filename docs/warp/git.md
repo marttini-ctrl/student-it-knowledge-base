@@ -1,4 +1,4 @@
-# WARP
+# WARP :)
 
 [Comendy](docs/warp/git.md)
 
